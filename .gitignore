@@ -4,3 +4,7 @@ stb-venv/
 
 .idea/
 .vscode/
+
+.DS_Store
+
+ShutTheBox
